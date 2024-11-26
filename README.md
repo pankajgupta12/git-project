@@ -1,3 +1,3 @@
 # git-project
 git project
-Author - Pankaj gupta
+Author - Pankaj gupta (git-project check)
